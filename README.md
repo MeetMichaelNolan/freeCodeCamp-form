@@ -1,2 +1,2 @@
 # freeCodeCamp-form
-This is a freeCodeCamp review form I based off one of their ones. 
+This is a freeCodeCamp review form I based off one of their ones. I'm really enjoying making these because it really helps to practice what I'm learning to get a better understanding of how things work. Summer semester started yesterday (5.16.22) and will be learning JavaScript. Excited to see how I can implement that into new web applications in the future. Made this morning of 5.17.22, finished 10.40 AM.
